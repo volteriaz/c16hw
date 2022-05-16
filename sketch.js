@@ -60,8 +60,8 @@ function draw() {
     if(fruitGroup.isTouching(knife)){
       fruitGroup.destroyEach();
       
-      // knifeSwooshSound.play();
-       knifeSwooshSound.play;
+       knifeSwooshSound.play();
+      // knifeSwooshSound.play;
       // knifeSwooshSound();
       // knifeSwooshSoundplay();
 
